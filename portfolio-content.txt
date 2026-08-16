@@ -1,0 +1,47 @@
+Sravani Kumari Palem
+Hatfield, UK | +44 07887079757 | sravanikumaripalem@gmail.com | linkedin.com/in/sravani-kumari-palem
+PROFESSIONAL SUMMARY
+Full Stack Developer with 2+ years of commercial experience building scalable web applications across React, Angular,
+Node.js, and Django. Proven track record delivering production features including API optimization (70% latency
+reduction via Redis/WebSockets), real-time 3D environments, and AI-integrated tools. Currently completing an MSc in
+Advanced Computer Science with industry placement at the University of Hertfordshire.
+EXPERIENCE
+Technical Team Member | Fresh Bites Group LTD Jan 2026 – Present
+● Building responsive front-end interfaces and supporting backend logic using React and Node.js
+● Integrating third-party APIs and cloud-based services across the full software development lifecycle
+● Contributing to technical documentation and participating in architecture discussions
+Web Developer Placement | Cubeq Analytica LTD May 2025 – Dec 2025
+● Built the Eventfull Marketplace front-end (Home Page, Vendor Registration, multi-step onboarding) using
+Angular, TypeScript, and Bootstrap
+● Designed a responsive Vendor Dashboard featuring booking management, analytics, messaging inbox, and
+profile controls. Developed a full-stack Django prototype with secure authentication, CRUD operations, form
+validation, and admin panel management
+● Integrated front-end components with RESTful APIs, ensuring seamless data flow across Angular and React
+modules using reusable component architecture
+● Developed reusable React components integrated with Django REST APIs, including state management, caching,
+and secure data workflows. Reviewed and optimised the Organiser-side React front-end, resolving critical UI
+issues and improving cross-browser compatibility. Tested and documented Finance backend APIs (Django), and
+maintained dev workflow documentation to support team onboarding
+System Engineer (Full Stack) | Infosys Jul 2022 – Aug 2024
+● Built immersive metaverse training applications using Unity (C#) and Blender 3D creating interactive simulations
+for virtual psychometric assessments with motion systems and analytics
+● Developed responsive UIs and optimised API communication for knowledge platforms using AngularJS, Node.js,
+MongoDB, TypeScript, and Redis. Redesigned the full UI/UX with infinite scroll to dynamically load data, cutting
+initial load times
+● Developed an AI-driven PPT/video generation platform using Angular, Fabric.js, TypeScript, and SCSS
+implementing PPT-to-video conversion, AWS voice-overs, avatars, and real-time editing
+● Built and optimised RESTful APIs with MongoDB, Redis caching and WebSockets, reducing redundant API calls by
+70% and improving real-time performance
+● Improved backend scalability and memory service performance, reducing latency significantly
+SKILLS
+Frontend: React, Angular, AngularJS, JavaScript, TypeScript, HTML, CSS, SCSS, Fabric.js, Bootstrap, Chart.js
+Backend: Node.js, Express.js, Django, REST APIs, Socket.IO, Redis, WebSockets
+Databases: MongoDB, MySQL, PostgreSQL
+AI / ML: Machine Learning, Deep Learning, CNN, LSTM
+3D / Other: Unity (C#), Blender, AWS, Git, Linux, Java, Python
+EDUCATION
+MSc Advanced Computer Science (with Placement) Sep 2024 – Present
+University of Hertfordshire
+CERTIFICATIONS
+Infosys Certified: Node.js Professional (Jul 2023) | MongoDB Developer (Apr 2023) | Angular Professional (Apr 2023)
+| Angular Associate (Sep 2022)
